@@ -4,5 +4,5 @@ helm:
     value: puneetsingh23/testargocd
     forcestring: true
   - name: image.tag
-    value: "6.0"
+    value: "7.0"
     forcestring: true
